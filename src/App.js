@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-  const [user, setUser] = useState(
+  const [user] = useState(
     {
       name: "Estudiante",
       password: "Enter"
